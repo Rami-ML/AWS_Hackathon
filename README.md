@@ -23,7 +23,8 @@ Product Managers often deal with scattered data across various tools and teams â
 ---
 
 ## System Architecture
-![Screenshot 2025-06-08 at 02 58 26](https://github.ibm.com/AOttenbe/aws-hackathon-gs/assets/472411/eae4101d-dd9a-4107-b44b-8b58ea630eaf)
+<img width="2009" height="1060" alt="image" src="https://github.com/user-attachments/assets/320a88ef-9ec6-424f-a1fc-b67de8452f70" />
+
 
 - **Frontend**: Static S3 Website (chat UI)
 - **Backend**:
